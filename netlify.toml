@@ -1,0 +1,4 @@
+[[redirets]]
+from = "/*"
+to = "/home.html"
+status = 200
