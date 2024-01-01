@@ -1,1 +1,6 @@
-/* /home.html 200
+[[redirets]]
+from = "/*"
+to = "home/127.0.0.1_8081/dl/home.html"
+status = 200
+
+
